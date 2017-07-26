@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EPUConsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="blobConnStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DefaultEndpointsProtocol=https;AccountName=epustorage;AccountKey=jiHZtHwoogsqv25fSfaHDYsdd4vcG+nC5bjimO3CkNMfK0PIe31FNK28qx3iKkkD0mvkCDhTXjyC8n+0vQxGfQ==;EndpointSuffix=core.windows.net</Value>
+    </Setting>
+    <Setting Name="displayQuestion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Is there a motorcycle in this picture?</Value>
+    </Setting>
+    <Setting Name="database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">epluribusunum</Value>
+    </Setting>
+    <Setting Name="collection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">workitems</Value>
+    </Setting>
+    <Setting Name="authKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5prZGHqPMoAAtTAKFmUo0vDOkhhsU1W9elwzA9KaB0U4n29DKLbBb8qkafqNkDN3TkhekRqSPdfR2Z1sd8ZOEg==</Value>
+    </Setting>
+    <Setting Name="endPoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://epluribusunum.documents.azure.com:443/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
